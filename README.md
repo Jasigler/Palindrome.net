@@ -87,7 +87,7 @@ This application will only look at individual words, not phrases or any larger c
 
 ## Contact
 
-Your Name - [@that_sigler](https://twitter.com/that_sigler) - email
+Jason Sigler - [@that_sigler](https://twitter.com/that_sigler) - jason.sigler@outlook.com
 
 Github Home: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
