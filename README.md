@@ -1,19 +1,8 @@
 
-
-
-<br />
-<p align="center">
-  <a href="https://github.com/Jasigler/Palindrome.net">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Palindromes.Net</h3>
 
   <p align="center">
     A simple (and probably useless).Net Core application to count palindromes in text files.
-    <br />
-    <a href="https://github.com/Jasigler/Palindrome.net"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     ·
     <a href="https://github.com/Jasigler/Palindrome.net/issues">Report Bug</a>
